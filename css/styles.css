@@ -148,3 +148,44 @@
 #design-description-title {
 	color: #73bfb8;
 }
+
+/* ==== About ==== */
+
+.footer-container {
+	background-image: url("../img/footer.jpg");
+	background-position: center;
+}
+
+.about-container {
+	width: 80%;
+	padding: 30px 10%;
+	position: relative;
+	clear: both;
+}
+
+.about-card {
+	float: left;
+	width: 30%;
+	padding: 30px;
+	background-color: #fff;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+.middle-card {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.about-card i {
+	font-size: 45px;
+	color: #aaa;
+}
+
+.about-card p {
+	margin-top: 45px;
+	font-size: 14px;
+	line-height: 22px;
+	color: #777;
+	text-align: left;
+}
