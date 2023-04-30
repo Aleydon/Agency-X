@@ -1,4 +1,4 @@
-# Agency-X
+<h1 align="center">Agency-X</h1>
 
 # :earth_americas: Agency-X Web Site :earth_americas:
 
@@ -8,4 +8,4 @@
 ---
 
 <h3>Header</h3>
-![Header-Page](https://github.com/Aleydon/Agency-X/blob/master/img/screenshots/agency-list-details.png)
+![Header-Page](/img/screenshots/agency-header.png)
