@@ -9,3 +9,4 @@
 
 <h3>Header</h3>
 ![Header-Page](/img/screenshots/agency-header.png)
+<img src="img/screenshots/agency-header.png" width="350" title="Header Page">
