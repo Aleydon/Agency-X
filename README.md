@@ -7,3 +7,9 @@
 
 <h3>Header</h3>
 <img src="img/screenshots/agency-header.png" width="1000"  height="590" title="Header Page">
+
+<h3>Sections</h3>
+<img src="img/screenshots/agency-list-details.png" width="1000" height"590" title="Section Page">
+
+<h3>Form + Footer</h3>
+<img src="img/screenshots/agency-form-footer.png" width="1000" height"590" title="Form + Footer">
