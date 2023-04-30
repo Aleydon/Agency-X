@@ -8,4 +8,4 @@
 ---
 
 <h3>Header</h3>
-<img src="img/screenshots/agency-header.png" width="500"  height="500" title="Header Page">
+<img src="img/screenshots/agency-header.png" width="1000"  height="500" title="Header Page">
